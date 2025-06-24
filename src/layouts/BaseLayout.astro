@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 ---
 <html lang="en">
   <head>
@@ -9,7 +10,24 @@
   </head>
   <body class="bg-white text-black font-sans leading-relaxed">
     <main class="max-w-3xl mx-auto p-6 prose">
+=======
+const { title } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{title ? `${title} | Architects of Meaning` : 'Architects of Meaning'}</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <main>
+>>>>>>> e1c6096 (Initial commit: AXM)
       <slot />
     </main>
   </body>
 </html>
+<<<<<<< HEAD
+=======
+
+>>>>>>> e1c6096 (Initial commit: AXM)

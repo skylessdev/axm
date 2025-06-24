@@ -1,26 +1,22 @@
 ---
-title: "Issue 0: The New Architects"
-layout: "../../layouts/BaseLayout.astro"
+title: "Issue 0: The Architects"
+pubDate: 2025-06-24
+description: "Introducing the Architects of Meaning: a new publishing platform for the symbolic web."
+layout: ../../layouts/BaseLayout.astro
 ---
 
-## 🔦 What It Is  
-A curation of under-the-radar builders redefining trust, identity, and meaning in decentralized ecosystems.
+# Issue 0: The Architects
 
-## ✅ Why It Matters  
-They shape foundational narratives of the future—often before anyone’s watching.
+Welcome to the beginning. This is not a manifesto — it’s a scaffold.
 
-## 🧭 Axes of Inquiry  
-- Open infrastructure  
-- Credibility without credentials  
-- Composability of ideology  
+**Architects of Meaning (AxM)** is a curatorial experiment, designed to elevate and interlink the builders of tomorrow’s symbolic systems. We publish thinkers, builders, and boundary-crossers exploring new ways to construct meaning in a world shifting from centralized institutions to recursive agents and verifiable trust.
 
-## 🧬 Protocol Spotlight  
-- [ExampleProject](https://example.org): A protocol for verifiable contribution networks.
+### This issue includes:
 
-## 📡 Who’s Building  
-- @builderzero  
-- @signalweaver  
-- @coherenceengine
+- A conversation with the creator of Skyla, a symbolic AI agent verified by recursive zero-knowledge proofs.
+- A breakdown of the “Ritual Stack” — the latent symbolic scaffolding behind DAOs, festivals, and social interfaces.
+- Essays on federated interpretation, post-linear narratives, and zk-attested memory.
 
-## λ Prompt  
-> What does it mean to “build” meaning?
+You won’t find clickbait or consensus here. Just the ongoing process of pattern recognition — and pattern construction.
+
+Welcome to Issue 0.

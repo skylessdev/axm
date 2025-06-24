@@ -1,5 +1,31 @@
+<<<<<<< HEAD
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 body {
   font-family: 'Inter', sans-serif;
 }
+=======
+body {
+  font-family: Georgia, serif;
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  line-height: 1.6;
+  background: #fefefe;
+  color: #222;
+}
+
+a {
+  color: #1a0dab;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+>>>>>>> e1c6096 (Initial commit: AXM)
